@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{46655818-D70E-49CE-8F6F-53248C6F8A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParser.Tests", "src\XmlParser.Tests\XmlParser.Tests.csproj", "{636110A6-D7B8-487C-9924-5168C4054E95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlParser.Parser", "src\XmlParser.Parser\XmlParser.Parser.csproj", "{0588AF07-89B7-42E5-B62F-9663D75C9910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636110A6-D7B8-487C-9924-5168C4054E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636110A6-D7B8-487C-9924-5168C4054E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636110A6-D7B8-487C-9924-5168C4054E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636110A6-D7B8-487C-9924-5168C4054E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0588AF07-89B7-42E5-B62F-9663D75C9910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0588AF07-89B7-42E5-B62F-9663D75C9910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0588AF07-89B7-42E5-B62F-9663D75C9910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0588AF07-89B7-42E5-B62F-9663D75C9910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{636110A6-D7B8-487C-9924-5168C4054E95} = {46655818-D70E-49CE-8F6F-53248C6F8A80}
+		{0588AF07-89B7-42E5-B62F-9663D75C9910} = {46655818-D70E-49CE-8F6F-53248C6F8A80}
+	EndGlobalSection
+EndGlobal

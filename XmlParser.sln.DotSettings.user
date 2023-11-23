@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=18ee554e_002Dbc51_002D497e_002D94b7_002D780ffd21e831/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DetermineXml_WithValidXml_ReturnsTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::636110A6-D7B8-487C-9924-5168C4054E95::net7.0::XmlParser.Tests.LexerTests.GetToken_LessThanToken_ReturnsCorrectToken&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::636110A6-D7B8-487C-9924-5168C4054E95::net7.0::XmlParser.Tests.LexerTests.GetToken_XmlNameToken&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::636110A6-D7B8-487C-9924-5168C4054E95::net7.0::XmlParser.Tests.LexerTests.GetToken_XmlNameToken_ReturnsCorrectToken&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
